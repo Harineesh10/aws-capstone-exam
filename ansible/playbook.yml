@@ -29,7 +29,7 @@
 
     - name: Clone application from GitHub
       git:
-        repo: https://github.com/thrishak2004/aws-capstone-exam.git
+        repo: https://github.com/Harineesh10/aws-capstone-exam.git
         dest: /var/www/html
         version: main
         force: yes
